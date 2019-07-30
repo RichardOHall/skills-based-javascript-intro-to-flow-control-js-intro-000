@@ -52,6 +52,6 @@ case 18:
 case 19:
   "You are a teenager";
   break;
-  default: console.log("You have an age")
+  default: console.log("You have an age");
 }
 }
