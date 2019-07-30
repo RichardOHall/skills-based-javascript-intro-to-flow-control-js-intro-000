@@ -1,4 +1,4 @@
-function if(age<=19 && age<=13) {
+function basicTeenager if(age<=19 && age<=13) {
 "You are a teenager"
 }
 
